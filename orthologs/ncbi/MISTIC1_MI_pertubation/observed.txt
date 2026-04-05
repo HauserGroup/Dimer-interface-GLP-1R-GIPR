@@ -1,0 +1,2 @@
+Observed difference (full data): -0.1675
+Permutation P-value (n=10000, subsample size=5): 0.9375

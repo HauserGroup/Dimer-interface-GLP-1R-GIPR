@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 760 600">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        font-size: 14px;
+      }
+
+      .st3, .st4, .st5 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .st4, .st5 {
+        font-size: 10px;
+      }
+
+      .st6 {
+        fill: #888;
+      }
+
+      .st6, .st7, .st8, .st9, .st10 {
+        fill-opacity: .6;
+      }
+
+      .st6, .st8, .st9 {
+        stroke: #888;
+      }
+
+      .st7 {
+        fill: red;
+        stroke: red;
+      }
+
+      .st7, .st10 {
+        stroke-width: 2px;
+      }
+
+      .st5 {
+        isolation: isolate;
+      }
+
+      .st8 {
+        fill: #740000;
+      }
+
+      .st11 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st12 {
+        fill: #231f20;
+      }
+
+      .st12, .st1, .st2 {
+        stroke: #000;
+      }
+
+      .st9 {
+        fill: #48b749;
+      }
+
+      .st1 {
+        stroke-miterlimit: 10;
+      }
+
+      .st10 {
+        fill: lime;
+        stroke: lime;
+      }
+
+      .st13 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="st0" cx="261.9" cy="334.1" r="124.5"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <ellipse class="st0" cx="268.7" cy="320.9" rx="148" ry="138.3"/>
+    </clipPath>
+  </defs>
+  <image width="3827" height="1747" transform="translate(5.1 -13.7) scale(.1)" xlink:href="_scatterplot(1)-1.png"/>
+  <rect class="st10" x="559.7" y="376" width="6" height="6"/>
+  <rect class="st7" x="626.5" y="309.3" width="6" height="6"/>
+  <rect class="st6" x="559.7" y="376" width="6" height="6"/>
+  <rect class="st6" x="573" y="376" width="6" height="6"/>
+  <rect class="st6" x="586.4" y="376" width="6" height="6"/>
+  <rect class="st6" x="546.3" y="362.7" width="6" height="6"/>
+  <rect class="st6" x="546.3" y="349.3" width="6" height="6"/>
+  <rect class="st6" x="519.6" y="349.3" width="6" height="6"/>
+  <rect class="st6" x="533" y="349.3" width="6" height="6"/>
+  <rect class="st6" x="559.7" y="349.3" width="6" height="6"/>
+  <rect class="st6" x="546.3" y="336" width="6" height="6"/>
+  <rect class="st6" x="599.8" y="336" width="6" height="6"/>
+  <rect class="st6" x="519.6" y="322.6" width="6" height="6"/>
+  <rect class="st6" x="492.9" y="322.6" width="6" height="6"/>
+  <rect class="st6" x="626.5" y="309.3" width="6" height="6"/>
+  <rect class="st6" x="626.5" y="295.9" width="6" height="6"/>
+  <rect class="st6" x="613.1" y="295.9" width="6" height="6"/>
+  <rect class="st6" x="599.8" y="295.9" width="6" height="6"/>
+  <rect class="st6" x="479.6" y="282.5" width="6" height="6"/>
+  <rect class="st6" x="613.1" y="282.5" width="6" height="6"/>
+  <rect class="st6" x="519.6" y="282.5" width="6" height="6"/>
+  <rect class="st6" x="506.3" y="282.5" width="6" height="6"/>
+  <circle class="st12" cx="469.2" cy="379" r="4"/>
+  <text class="st5" transform="translate(441.4 381.7)"><tspan x="0" y="0">L279</tspan></text>
+  <circle class="st12" cx="469.2" cy="365.7" r="4"/>
+  <text class="st5" transform="translate(441.1 368.4)"><tspan x="0" y="0">V282</tspan></text>
+  <circle class="st12" cx="469.2" cy="352.3" r="4"/>
+  <text class="st5" transform="translate(441.1 355)"><tspan x="0" y="0">P283</tspan></text>
+  <circle class="st12" cx="469.2" cy="339" r="4"/>
+  <text class="st5" transform="translate(442.7 341.6)"><tspan x="0" y="0">I286</tspan></text>
+  <circle class="st2" cx="469.2" cy="325.6" r="4"/>
+  <text class="st5" transform="translate(441.1 328.3)"><tspan x="0" y="0">V287</tspan></text>
+  <circle class="st2" cx="469.2" cy="312.3" r="4"/>
+  <text class="st5" transform="translate(441.1 314.9)"><tspan x="0" y="0">Y289</tspan></text>
+  <circle class="st12" cx="469.2" cy="298.9" r="4"/>
+  <text class="st5" transform="translate(441.4 301.6)"><tspan x="0" y="0">L290</tspan></text>
+  <circle class="st12" cx="469.2" cy="285.6" r="4"/>
+  <text class="st5" transform="translate(441.1 288.2)"><tspan x="0" y="0">Y291</tspan></text>
+  <circle class="st12" cx="482.6" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(468.8 406.8)"><tspan x="0" y="0">Q138</tspan></text>
+  <circle class="st2" cx="495.9" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(484.6 418.1)"><tspan x="0" y="0">V139</tspan></text>
+  <circle class="st2" cx="509.3" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(497.9 406.8)"><tspan x="0" y="0">Y141</tspan></text>
+  <circle class="st12" cx="522.6" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(511.5 418.1)"><tspan x="0" y="0">T142</tspan></text>
+  <circle class="st12" cx="536" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(523.6 406.8)"><tspan x="0" y="0">V143</tspan></text>
+  <circle class="st12" cx="549.3" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(537 418.1)"><tspan x="0" y="0">S146</tspan></text>
+  <circle class="st12" cx="562.7" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(551.6 406.8)"><tspan x="0" y="0">L147</tspan></text>
+  <circle class="st2" cx="576.1" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(564.5 418.1)"><tspan x="0" y="0">A150</tspan></text>
+  <circle class="st12" cx="589.4" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(578.3 406.8)"><tspan x="0" y="0">T151</tspan></text>
+  <circle class="st2" cx="602.8" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(591.6 418.1)"><tspan x="0" y="0">L188</tspan></text>
+  <circle class="st12" cx="616.1" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(605.5 406.8)"><tspan x="0" y="0">D191</tspan></text>
+  <circle class="st2" cx="629.5" cy="392.4" r="4"/>
+  <text class="st5" transform="translate(617.9 418.1)"><tspan x="0" y="0">R192</tspan></text>
+  <text class="st4" transform="translate(403.4 333.4)"><tspan x="0" y="0">GLP1R</tspan></text>
+  <text class="st4" transform="translate(544.6 432.9)"><tspan x="0" y="0">GIPR</tspan></text>
+  <text class="st3" transform="translate(443.9 266)"><tspan x="0" y="0">Predicted dimer interface</tspan></text>
+  <text/>
+  <text class="st4" transform="translate(650 275.8)"><tspan x="0" y="0">Legend</tspan></text>
+  <circle class="st12" cx="654.8" cy="285.5" r="4"/>
+  <text class="st4" transform="translate(662.7 289)"><tspan x="0" y="0">part of construct</tspan></text>
+  <circle class="st2" cx="654.8" cy="297.8" r="4"/>
+  <text class="st4" transform="translate(662.2 301.3)"><tspan x="0" y="0">not part of construct</tspan></text>
+  <rect class="st6" x="651.8" y="306.3" width="6" height="6"/>
+  <rect class="st9" x="651.8" y="317.8" width="6" height="6"/>
+  <rect class="st8" x="651.8" y="329.1" width="6" height="6"/>
+  <text class="st4" transform="translate(661.9 313.1)"><tspan x="0" y="0">contact (5Å)</tspan></text>
+  <text class="st4" transform="translate(660.1 324.5)"><tspan x="0" y="0">hydrogen bonds (4Å)</tspan></text>
+  <text class="st4" transform="translate(660.6 335.7)"><tspan x="0" y="0">π-Cation</tspan></text>
+  <line class="st1" x1="236.6" y1="164.4" x2="193.2" y2="219.3"/>
+  <line class="st1" x1="272.1" y1="161" x2="315.5" y2="215.9"/>
+  <circle class="st0" cx="268.3" cy="346" r="124.8"/>
+  <ellipse class="st0" cx="266.3" cy="333.3" rx="3.4" ry="1.7"/>
+  <circle class="st0" cx="153.4" cy="414.9" r="88.1"/>
+  <circle class="st0" cx="274.1" cy="350.4" r="118.3"/>
+  <g class="st13">
+    <g class="st11">
+      <image width="1660" height="1195" transform="translate(44.8 164.2) scale(.3 .3)" xlink:href="_scatterplot(1)-2.png"/>
+    </g>
+  </g>
+</svg>

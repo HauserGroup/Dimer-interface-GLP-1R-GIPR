@@ -1,0 +1,6 @@
+Job_name KZZFJA2FnA
+SequenceLength 929
+NumberOfSequences 324
+AveragePairwiseIdentity 71.6213008724338
+AverageNumOfExceptions 1.92572658772874
+MaxNumOfExceptions 8

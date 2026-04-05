@@ -1,0 +1,10 @@
+,gpcr_a,gpcr_b,peptide,id_of_best,iptm_ptm_score_of_best
+0,glp1r_human,glp1r_human,gip,model_5_multimer_v3_pred_0,0.40160109248561093
+1,glp1r_human,gipr_human,gip,model_5_multimer_v3_pred_0,0.39303958234956193
+2,gipr_human,gipr_human,glp1,model_5_multimer_v3_pred_0,0.4885107147939676
+3,gipr_human,gipr_human,gip,model_5_multimer_v3_pred_0,0.5070146989502257
+4,glp1r_human,gipr_human,,model_4_multimer_v3_pred_0,0.3535762008705313
+5,glp1r_human,glp1r_human,glp1,model_5_multimer_v3_pred_0,0.44129254498326415
+6,glp1r_human,glp1r_human,,model_4_multimer_v3_pred_0,0.23484625932919406
+7,gipr_human,gipr_human,,model_3_multimer_v3_pred_0,0.2927087689199543
+8,glp1r_human,gipr_human,glp1,model_3_multimer_v3_pred_0,0.43851442414153263

@@ -1,0 +1,7 @@
+Beginning date: Mon 21 Apr 2025 03:33:24 PM CEST
+End date: Mon 21 Apr 2025 03:42:09 PM CEST
+job name: KZZFJA2FnA
+jobID: KZZFJA2FnA
+Only hits: y
+Alphabet Reduction: None
+Dimension: 1
